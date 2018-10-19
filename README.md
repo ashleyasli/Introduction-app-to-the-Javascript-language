@@ -2,4 +2,4 @@
 Basic Calculator in Javascript
 
 This calculator has four operations: addition, substraction, division, multiplication.
-It is just used prompt(), Number() and alert(). 
+It is just used prompt(), Number(),alert() and if condition. 
